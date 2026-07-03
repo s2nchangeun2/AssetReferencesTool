@@ -1,2 +1,0 @@
-Found 1 file(s) referencing `Assets/Materials/TestMaterial.mat`:
-Assets/Prefabs/TestPrefab.prefab
